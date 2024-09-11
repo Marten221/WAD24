@@ -1,2 +1,2 @@
-Web Application Development
+Application Development
 2024
